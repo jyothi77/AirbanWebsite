@@ -1,0 +1,93 @@
+.nav-1 .nav-2 .nav-3 {
+    margin: 10px 10px 10px 10px;
+    font-size: 25px;
+  }
+  .nav-1 .nav-4 .nav-5 {
+    margin: 10px 5px 10px 5px;
+    font-size: 25px;
+  }
+  .nav-1 .n-1 {
+    margin: 10px 30px 10px 30px;
+    font-size: 35px;
+  }
+  .br-1 {
+    border: 1px solid black;
+    background-color: #ffffff;
+    border-radius: 30px;
+    text-align: center;
+  }
+  .n-6 .n-7 .n-8 {
+    margin: 5px 5px 5px 5px;
+    font-size: 19px;
+  }
+  .mar {
+    margin: 50px 10px 50px 10px;
+  }
+  .d-f {
+    display: flex;
+    margin-left: auto;
+  }
+  .d-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .mar-3 {
+    margin: 5px 5px 5px 5px;
+  }
+  .vector{
+    margin: 20px 10px 20px 10px;
+  }
+  .p11 {
+    position: absolute;
+    top: 6%;
+    left: 10%;
+    color: #fff;
+  
+  }
+  /* .gr11:focus{
+    color: red;
+  } */
+  .heart {
+    color: red;
+    background-color: currentColor;
+    display: inline-block;
+    height: 50px;
+    margin: 0 10px;
+    position: relative;
+    top: 0;
+    transform: rotate(-45deg);
+    position: absolute;
+    left: 45%;
+    top: 45%;
+    width: 50px;
+  }
+  
+  .heart-checkbox {
+    display: none;
+  }
+  
+  .heart::before,
+  .heart::after {
+    content: "";
+    background-color: currentColor;
+    border-radius: 50%;
+    height: 50px;
+    position: absolute;
+    width: 50px;
+  }
+  
+  .heart:before {
+    top: -25px;
+    left: 0;
+  }
+  
+  .heart:after {
+    left: 25px;
+    top: 0;
+  }
+  
+  .heart-checkbox:checked + .heart {
+    color: black;
+  }
+  

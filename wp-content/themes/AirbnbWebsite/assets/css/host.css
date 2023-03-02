@@ -1,0 +1,270 @@
+.container
+{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+.banner{
+    display: flex;
+    flex-direction: column;
+}
+.text1{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 74px;
+/* identical to box height */
+
+
+color: #5F002A;
+}
+.btn1{
+    background: #5F002A;
+border-radius: 10px;
+color: white;
+width: 200px;
+height: 56px;
+}
+.text-head{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.text2{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 25px;
+
+color: #FFFFFF;
+}
+.text3{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 50px;
+
+color: #FFFFFF; 
+}
+.text4{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+    
+    color: #000000;
+}
+.text5{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #484848;
+    
+}
+.text-body{
+    display: flex;
+    justify-content: center;
+}
+.text6{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 55px;
+text-align: center;
+color: #000000;
+
+}
+/* .foot-head{
+    background-color: #000;
+} */
+.text7{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 74px;
+/* identical to box height */
+
+
+color:white;
+
+}
+.text8{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.footer{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+background: #FFFFFF;
+border-radius: 10px;
+padding: 10px 10px 10px 10px;
+border: 1px solid #FFFFFF;
+
+}
+.footer1{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+background-color: transparent;
+color: white;
+border: 1px solid white;
+border-radius: 10px;
+padding: 10px 10px 10px 10px;
+margin: 0 10px;
+}
+.header{
+    background-color: #000;
+}
+.foot-head1{
+    display:flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.text9{
+    font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 32px;
+
+color: #FFFFFF;
+
+}
+.foot{
+    background-color: white;
+   
+}
+.list1 li {
+    padding: 5px;
+    margin: 0;
+    border: hidden;
+}
+.list2 {
+    font-weight: bold;
+}
+.bg-head{
+    background-color: white;
+   
+}
+.footer5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foot-headee {
+    padding: 0;
+    margin: 0;
+    display: flex;
+
+}
+.foot-text{
+ font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.text-b{
+    position: absolute;
+bottom: 0;
+left: 20px;
+  }
+  .tex-2{
+    color: white;
+  }
+  .tex-3{
+    color: white;
+  }
+.foot-text1{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+.foot-img{
+ margin: 0px 10px;
+}
+.devv{
+    box-shadow: none !important;
+}
+.foot-text2{
+ padding: 5px 0px 5px 5px;
+}
+.headd{
+    display: flex;
+    justify-content: center;
+}
+.f-head li{
+    border: 0;
+    padding: 5px 0;
+    margin: 0;
+}
+.t-foot{
+    font-size: 16px;
+    font-weight: 800;
+}
+.slid-head{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.img-g{
+    margin: 0px 10px;
+}
+.foot-head li{
+    padding: 0;
+    border: 0;
+        
+  
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.foot1{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+.superhost{
+    overflow-x: hidden;
+}
+.gr11:focus{
+    color: red;
+  }

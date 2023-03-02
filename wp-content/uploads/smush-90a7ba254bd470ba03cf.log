@@ -1,0 +1,866 @@
+[2023-02-13 07:48:50 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 07:48:50 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 07:48:50 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 07:48:50 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 07:48:50 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 07:50:00 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 07:50:00 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 07:50:00 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 07:50:00 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 07:50:00 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 07:51:55 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 07:51:55 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 07:51:55 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 07:51:55 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 07:51:55 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 07:52:16 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 07:52:16 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 07:52:16 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 07:52:16 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 07:52:16 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 07:54:53 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 07:54:53 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 07:54:53 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 07:54:53 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 07:54:53 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 07:55:24 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 07:55:24 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 07:55:24 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 07:55:24 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 07:55:24 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 07:56:52 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 07:56:52 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 07:56:52 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 07:56:52 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 07:56:52 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 07:57:30 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 07:57:30 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 07:57:30 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 07:57:30 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 07:57:30 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 07:57:38 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 07:57:38 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 07:57:38 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 07:57:38 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 07:57:38 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 07:59:31 : INFO] - Re_Smush_It_Task with attachment ID : 1722, autocreated on : February 13, 2023 07:59:31 
+[2023-02-13 07:59:49 : INFO] - Re_Smush_It_Task with attachment ID : 1723, autocreated on : February 13, 2023 07:59:49 
+[2023-02-13 08:02:26 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 08:02:26 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 08:02:26 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 08:02:26 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 08:02:26 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 08:04:56 : INFO] - 
+ 
+[2023-02-13 08:04:56 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 08:04:56 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 08:04:56 : INFO] - WP: 6.0.2 
+[2023-02-13 08:04:56 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 08:04:56 : INFO] - MySQL: 10.4.27 
+[2023-02-13 08:04:56 : INFO] - WPLANG: en_US 
+[2023-02-13 08:04:56 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 08:04:56 : INFO] - Outbound connections: N 
+[2023-02-13 08:04:56 : INFO] - safe_mode: 0 
+[2023-02-13 08:04:56 : INFO] - max_execution_time: 120 
+[2023-02-13 08:04:56 : INFO] - memory_limit: 512M (used: 51.9M | 54M) 
+[2023-02-13 08:04:56 : INFO] - multisite: N 
+[2023-02-13 08:04:56 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 08:04:56 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2023-02-13 08:04:56 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-02-13 08:04:56 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-02-13 08:04:56 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2023-02-13 08:04:56 : INFO] - Re_Smush_It_Task with attachment ID : 1722, autocreated on : February 13, 2023 07:59:31 
+[2023-02-13 08:04:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 08:04:56 : INFO] - 75 
+[2023-02-13 08:04:58 : INFO] - Backing up the original image - 2023/02/blue-updraft-pre-smush-original.png 
+[2023-02-13 08:04:58 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/blue.png.The file was compressed from 72.65 KB to 22.74 KB saving 68.7 percent using WP-Optimize 
+[2023-02-13 08:04:58 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2023-02-13 08:04:58 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2023-02-13 08:04:58 : INFO] - Re_Smush_It_Task with attachment ID : 1723, autocreated on : February 13, 2023 07:59:49 
+[2023-02-13 08:04:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 08:04:58 : INFO] - 75 
+[2023-02-13 08:05:01 : INFO] - Backing up the original image - 2023/02/phots-updraft-pre-smush-original.png 
+[2023-02-13 08:05:01 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/phots.png.The file was compressed from 796.58 KB to 296.04 KB saving 62.84 percent using WP-Optimize 
+[2023-02-13 08:05:01 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2023-02-13 08:05:01 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-02-13 08:05:01 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2023-02-13 08:05:01 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-02-13 08:05:01 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2023-02-13 08:07:34 : INFO] - Re_Smush_It_Task with attachment ID : 1729, autocreated on : February 13, 2023 08:07:34 
+[2023-02-13 08:07:46 : INFO] - Re_Smush_It_Task with attachment ID : 1730, autocreated on : February 13, 2023 08:07:46 
+[2023-02-13 08:08:31 : INFO] - Re_Smush_It_Task with attachment ID : 1732, autocreated on : February 13, 2023 08:08:31 
+[2023-02-13 08:08:52 : INFO] - Re_Smush_It_Task with attachment ID : 1734, autocreated on : February 13, 2023 08:08:52 
+[2023-02-13 08:10:13 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 08:10:13 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 08:10:13 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 08:10:13 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 08:10:13 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 08:10:22 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 08:10:22 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 08:10:22 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 08:10:22 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 08:10:22 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 08:11:32 : INFO] - Re_Smush_It_Task with attachment ID : 1737, autocreated on : February 13, 2023 08:11:32 
+[2023-02-13 08:15:24 : INFO] - 
+ 
+[2023-02-13 08:15:24 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 08:15:24 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 08:15:24 : INFO] - WP: 6.0.2 
+[2023-02-13 08:15:24 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 08:15:24 : INFO] - MySQL: 10.4.27 
+[2023-02-13 08:15:24 : INFO] - WPLANG: en_US 
+[2023-02-13 08:15:24 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 08:15:24 : INFO] - Outbound connections: N 
+[2023-02-13 08:15:24 : INFO] - safe_mode: 0 
+[2023-02-13 08:15:24 : INFO] - max_execution_time: 120 
+[2023-02-13 08:15:24 : INFO] - memory_limit: 512M (used: 51.9M | 54M) 
+[2023-02-13 08:15:24 : INFO] - multisite: N 
+[2023-02-13 08:15:24 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 08:15:24 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2023-02-13 08:15:24 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-02-13 08:15:24 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-02-13 08:15:24 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2023-02-13 08:15:24 : INFO] - Re_Smush_It_Task with attachment ID : 1729, autocreated on : February 13, 2023 08:07:34 
+[2023-02-13 08:15:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 08:15:24 : INFO] - 75 
+[2023-02-13 08:15:25 : INFO] - Task with ID 3 and type (smush) failed with error code http_request_failed - cURL error 52: Empty reply from server 
+[2023-02-13 08:15:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2023-02-13 08:15:25 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2023-02-13 08:15:25 : INFO] - Re_Smush_It_Task with attachment ID : 1730, autocreated on : February 13, 2023 08:07:46 
+[2023-02-13 08:15:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 08:15:25 : INFO] - 75 
+[2023-02-13 08:15:26 : INFO] - Backing up the original image - 2023/02/blue-1-updraft-pre-smush-original.png 
+[2023-02-13 08:15:26 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/blue-1.png.The file was compressed from 72.65 KB to 23.33 KB saving 67.89 percent using WP-Optimize 
+[2023-02-13 08:15:26 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2023-02-13 08:15:26 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2023-02-13 08:15:26 : INFO] - Re_Smush_It_Task with attachment ID : 1732, autocreated on : February 13, 2023 08:08:31 
+[2023-02-13 08:15:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 08:15:26 : INFO] - 75 
+[2023-02-13 08:15:27 : INFO] - Task with ID 5 and type (smush) failed with error code http_request_failed - cURL error 52: Empty reply from server 
+[2023-02-13 08:15:27 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2023-02-13 08:15:27 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2023-02-13 08:15:27 : INFO] - Re_Smush_It_Task with attachment ID : 1734, autocreated on : February 13, 2023 08:08:52 
+[2023-02-13 08:15:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 08:15:27 : INFO] - 75 
+[2023-02-13 08:15:30 : INFO] - Backing up the original image - 2023/02/bannerimage-2-updraft-pre-smush-original.png 
+[2023-02-13 08:15:30 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/bannerimage-2.png.The file was compressed from 820.52 KB to 243.78 KB saving 70.29 percent using WP-Optimize 
+[2023-02-13 08:15:30 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2023-02-13 08:15:30 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2023-02-13 08:15:30 : INFO] - Re_Smush_It_Task with attachment ID : 1737, autocreated on : February 13, 2023 08:11:32 
+[2023-02-13 08:15:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 08:15:30 : INFO] - 75 
+[2023-02-13 08:15:31 : INFO] - Backing up the original image - 2023/02/search-updraft-pre-smush-original.png 
+[2023-02-13 08:15:31 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/search.png.The file was compressed from 1.18 KB to 709 bytes saving 41.5 percent using WP-Optimize 
+[2023-02-13 08:15:31 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2023-02-13 08:15:31 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-02-13 08:15:31 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2023-02-13 08:15:31 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-02-13 08:15:31 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2023-02-13 08:17:36 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : February 13, 2023 08:17:36 
+[2023-02-13 08:17:51 : INFO] - Re_Smush_It_Task with attachment ID : 1740, autocreated on : February 13, 2023 08:17:51 
+[2023-02-13 08:17:52 : INFO] - Re_Smush_It_Task with attachment ID : 1741, autocreated on : February 13, 2023 08:17:52 
+[2023-02-13 08:17:53 : INFO] - Re_Smush_It_Task with attachment ID : 1742, autocreated on : February 13, 2023 08:17:53 
+[2023-02-13 08:17:54 : INFO] - Re_Smush_It_Task with attachment ID : 1743, autocreated on : February 13, 2023 08:17:54 
+[2023-02-13 08:17:56 : INFO] - Re_Smush_It_Task with attachment ID : 1744, autocreated on : February 13, 2023 08:17:56 
+[2023-02-13 08:17:57 : INFO] - Re_Smush_It_Task with attachment ID : 1745, autocreated on : February 13, 2023 08:17:57 
+[2023-02-13 08:22:54 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 08:22:54 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 08:22:54 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 08:22:54 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 08:22:54 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 08:25:24 : INFO] - 
+ 
+[2023-02-13 08:25:24 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 08:25:24 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 08:25:24 : INFO] - WP: 6.0.2 
+[2023-02-13 08:25:24 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 08:25:24 : INFO] - MySQL: 10.4.27 
+[2023-02-13 08:25:24 : INFO] - WPLANG: en_US 
+[2023-02-13 08:25:24 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 08:25:24 : INFO] - Outbound connections: N 
+[2023-02-13 08:25:24 : INFO] - safe_mode: 0 
+[2023-02-13 08:25:24 : INFO] - max_execution_time: 120 
+[2023-02-13 08:25:24 : INFO] - memory_limit: 512M (used: 51.9M | 56M) 
+[2023-02-13 08:25:24 : INFO] - multisite: N 
+[2023-02-13 08:25:24 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 08:25:24 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2023-02-13 08:25:24 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-02-13 08:25:24 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-02-13 08:25:24 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2023-02-13 08:25:24 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : February 13, 2023 08:17:36 
+[2023-02-13 08:25:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 08:25:24 : INFO] - 75 
+[2023-02-13 08:25:24 : INFO] - Task with ID 8 and type (smush) failed with error code http_request_failed - cURL error 52: Empty reply from server 
+[2023-02-13 08:25:24 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2023-02-13 08:25:24 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2023-02-13 08:25:24 : INFO] - Re_Smush_It_Task with attachment ID : 1740, autocreated on : February 13, 2023 08:17:51 
+[2023-02-13 08:25:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 08:25:24 : INFO] - 75 
+[2023-02-13 08:25:25 : INFO] - Task with ID 9 and type (smush) failed with error code http_request_failed - cURL error 52: Empty reply from server 
+[2023-02-13 08:25:25 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2023-02-13 08:25:25 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2023-02-13 08:25:25 : INFO] - Re_Smush_It_Task with attachment ID : 1741, autocreated on : February 13, 2023 08:17:52 
+[2023-02-13 08:25:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 08:25:25 : INFO] - 75 
+[2023-02-13 08:25:26 : INFO] - Backing up the original image - 2023/02/blue-2-updraft-pre-smush-original.png 
+[2023-02-13 08:25:26 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/blue-2.png.The file was compressed from 72.65 KB to 23.33 KB saving 67.89 percent using WP-Optimize 
+[2023-02-13 08:25:26 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2023-02-13 08:25:26 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2023-02-13 08:25:26 : INFO] - Re_Smush_It_Task with attachment ID : 1742, autocreated on : February 13, 2023 08:17:53 
+[2023-02-13 08:25:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 08:25:26 : INFO] - 75 
+[2023-02-13 08:25:33 : INFO] - Backing up the original image - 2023/02/mountain-updraft-pre-smush-original.png 
+[2023-02-13 08:25:33 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/mountain.png.The file was compressed from 50.18 KB to 20.29 KB saving 59.56 percent using WP-Optimize 
+[2023-02-13 08:25:33 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2023-02-13 08:25:33 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2023-02-13 08:25:33 : INFO] - Re_Smush_It_Task with attachment ID : 1743, autocreated on : February 13, 2023 08:17:54 
+[2023-02-13 08:25:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 08:25:33 : INFO] - 75 
+[2023-02-13 08:25:33 : INFO] - Task with ID 12 and type (smush) failed with error code http_request_failed - cURL error 52: Empty reply from server 
+[2023-02-13 08:25:33 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2023-02-13 08:25:33 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2023-02-13 08:25:33 : INFO] - Re_Smush_It_Task with attachment ID : 1744, autocreated on : February 13, 2023 08:17:56 
+[2023-02-13 08:25:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 08:25:33 : INFO] - 75 
+[2023-02-13 08:25:36 : INFO] - Backing up the original image - 2023/02/toor-updraft-pre-smush-original.png 
+[2023-02-13 08:25:36 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/toor.png.The file was compressed from 506.50 KB to 177.83 KB saving 64.89 percent using WP-Optimize 
+[2023-02-13 08:25:36 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2023-02-13 08:25:36 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2023-02-13 08:25:36 : INFO] - Task with ID 14 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-02-13 08:25:36 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-02-13 08:25:36 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
+[2023-02-13 08:25:36 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-02-13 08:25:36 : INFO] - Cleaning up tasks of type (smush). A total of 7 tasks will be deleted. 
+[2023-02-13 08:25:40 : INFO] - 
+ 
+[2023-02-13 08:25:40 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 08:25:40 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 08:25:40 : INFO] - WP: 6.0.2 
+[2023-02-13 08:25:40 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 08:25:40 : INFO] - MySQL: 10.4.27 
+[2023-02-13 08:25:40 : INFO] - WPLANG: en_US 
+[2023-02-13 08:25:40 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 08:25:40 : INFO] - Outbound connections: N 
+[2023-02-13 08:25:40 : INFO] - safe_mode: 0 
+[2023-02-13 08:25:40 : INFO] - max_execution_time: 120 
+[2023-02-13 08:25:40 : INFO] - memory_limit: 512M (used: 51.9M | 56M) 
+[2023-02-13 08:25:40 : INFO] - multisite: N 
+[2023-02-13 08:25:40 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 08:25:40 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-02-13 09:58:53 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 09:58:53 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 09:58:53 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 09:58:53 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 09:58:53 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 10:01:41 : INFO] - Re_Smush_It_Task with attachment ID : 1747, autocreated on : February 13, 2023 10:01:41 
+[2023-02-13 10:01:42 : INFO] - Re_Smush_It_Task with attachment ID : 1748, autocreated on : February 13, 2023 10:01:42 
+[2023-02-13 10:01:43 : INFO] - Re_Smush_It_Task with attachment ID : 1749, autocreated on : February 13, 2023 10:01:43 
+[2023-02-13 10:08:00 : INFO] - 
+ 
+[2023-02-13 10:08:00 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 10:08:00 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 10:08:00 : INFO] - WP: 6.0.2 
+[2023-02-13 10:08:00 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 10:08:00 : INFO] - MySQL: 10.4.27 
+[2023-02-13 10:08:00 : INFO] - WPLANG: en_US 
+[2023-02-13 10:08:00 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 10:08:00 : INFO] - Outbound connections: N 
+[2023-02-13 10:08:00 : INFO] - safe_mode: 0 
+[2023-02-13 10:08:00 : INFO] - max_execution_time: 120 
+[2023-02-13 10:08:00 : INFO] - memory_limit: 512M (used: 51.9M | 54M) 
+[2023-02-13 10:08:00 : INFO] - multisite: N 
+[2023-02-13 10:08:00 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 10:08:00 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2023-02-13 10:08:00 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-02-13 10:08:00 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-02-13 10:08:00 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2023-02-13 10:08:00 : INFO] - Re_Smush_It_Task with attachment ID : 1747, autocreated on : February 13, 2023 10:01:41 
+[2023-02-13 10:08:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:08:00 : INFO] - 75 
+[2023-02-13 10:08:00 : INFO] - Task with ID 15 and type (smush) failed with error code http_request_failed - cURL error 52: Empty reply from server 
+[2023-02-13 10:08:00 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2023-02-13 10:08:00 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2023-02-13 10:08:00 : INFO] - Re_Smush_It_Task with attachment ID : 1748, autocreated on : February 13, 2023 10:01:42 
+[2023-02-13 10:08:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:08:00 : INFO] - 75 
+[2023-02-13 10:08:02 : INFO] - Backing up the original image - 2023/02/blue-Copy-updraft-pre-smush-original.png 
+[2023-02-13 10:08:02 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/blue-Copy.png.The file was compressed from 72.65 KB to 23.33 KB saving 67.89 percent using WP-Optimize 
+[2023-02-13 10:08:02 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2023-02-13 10:08:02 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2023-02-13 10:08:02 : INFO] - Re_Smush_It_Task with attachment ID : 1749, autocreated on : February 13, 2023 10:01:43 
+[2023-02-13 10:08:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:08:02 : INFO] - 75 
+[2023-02-13 10:08:15 : INFO] - Task with ID 17 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2023-02-13 10:08:15 : INFO] - data: {"src":"http:\/\/par5.static.resmush.it\/1e61c925f1437d25f417c82346851a55\/_src_mountain-Copy.png","dest":"http:\/\/par5.static.resmush.it\/1e61c925f1437d25f417c82346851a55\/mountain-Copy.png","src_size":51387,"dest_size":20782,"percent":60,"output":"json","expires":"Mon, 13 Feb 2023 11:13:11 +0100","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2023-02-13 10:08:15 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-02-13 10:08:15 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2023-02-13 10:08:15 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-02-13 10:08:15 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2023-02-13 10:08:44 : INFO] - Re_Smush_It_Task with attachment ID : 1752, autocreated on : February 13, 2023 10:08:44 
+[2023-02-13 10:08:45 : INFO] - Re_Smush_It_Task with attachment ID : 1753, autocreated on : February 13, 2023 10:08:45 
+[2023-02-13 10:08:46 : INFO] - Re_Smush_It_Task with attachment ID : 1754, autocreated on : February 13, 2023 10:08:46 
+[2023-02-13 10:08:47 : INFO] - Re_Smush_It_Task with attachment ID : 1755, autocreated on : February 13, 2023 10:08:47 
+[2023-02-13 10:08:48 : INFO] - Re_Smush_It_Task with attachment ID : 1756, autocreated on : February 13, 2023 10:08:48 
+[2023-02-13 10:12:57 : INFO] - Re_Smush_It_Task with attachment ID : 1758, autocreated on : February 13, 2023 10:12:57 
+[2023-02-13 10:12:58 : INFO] - Re_Smush_It_Task with attachment ID : 1759, autocreated on : February 13, 2023 10:12:58 
+[2023-02-13 10:13:00 : INFO] - Re_Smush_It_Task with attachment ID : 1760, autocreated on : February 13, 2023 10:13:00 
+[2023-02-13 10:13:01 : INFO] - Re_Smush_It_Task with attachment ID : 1761, autocreated on : February 13, 2023 10:13:01 
+[2023-02-13 10:13:02 : INFO] - Re_Smush_It_Task with attachment ID : 1762, autocreated on : February 13, 2023 10:13:02 
+[2023-02-13 10:13:03 : INFO] - Re_Smush_It_Task with attachment ID : 1763, autocreated on : February 13, 2023 10:13:03 
+[2023-02-13 10:18:28 : INFO] - 
+ 
+[2023-02-13 10:18:28 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 10:18:28 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 10:18:28 : INFO] - WP: 6.0.2 
+[2023-02-13 10:18:28 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 10:18:28 : INFO] - MySQL: 10.4.27 
+[2023-02-13 10:18:28 : INFO] - WPLANG: en_US 
+[2023-02-13 10:18:28 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 10:18:28 : INFO] - Outbound connections: N 
+[2023-02-13 10:18:28 : INFO] - safe_mode: 0 
+[2023-02-13 10:18:28 : INFO] - max_execution_time: 120 
+[2023-02-13 10:18:28 : INFO] - memory_limit: 512M (used: 51.9M | 62M) 
+[2023-02-13 10:18:28 : INFO] - multisite: N 
+[2023-02-13 10:18:28 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 10:18:28 : INFO] - A total of 11 tasks of type smush found and will be processed in this iteration 
+[2023-02-13 10:18:28 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-02-13 10:18:28 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-02-13 10:18:28 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2023-02-13 10:18:28 : INFO] - Re_Smush_It_Task with attachment ID : 1752, autocreated on : February 13, 2023 10:08:44 
+[2023-02-13 10:18:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:18:28 : INFO] - 75 
+[2023-02-13 10:18:28 : INFO] - Re_Smush_It_Task with attachment ID : 1768, autocreated on : February 13, 2023 10:18:28 
+[2023-02-13 10:18:29 : INFO] - Re_Smush_It_Task with attachment ID : 1769, autocreated on : February 13, 2023 10:18:29 
+[2023-02-13 10:18:30 : INFO] - Re_Smush_It_Task with attachment ID : 1770, autocreated on : February 13, 2023 10:18:30 
+[2023-02-13 10:18:31 : INFO] - Backing up the original image - 2023/02/bannerimage-Copy-1-updraft-pre-smush-original.png 
+[2023-02-13 10:18:31 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/bannerimage-Copy-1.png.The file was compressed from 820.52 KB to 243.78 KB saving 70.29 percent using WP-Optimize 
+[2023-02-13 10:18:31 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2023-02-13 10:18:31 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2023-02-13 10:18:31 : INFO] - Re_Smush_It_Task with attachment ID : 1771, autocreated on : February 13, 2023 10:18:31 
+[2023-02-13 10:18:31 : INFO] - Re_Smush_It_Task with attachment ID : 1753, autocreated on : February 13, 2023 10:08:45 
+[2023-02-13 10:18:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:18:31 : INFO] - 75 
+[2023-02-13 10:18:32 : INFO] - Task with ID 19 and type (smush) failed with error code http_request_failed - cURL error 52: Empty reply from server 
+[2023-02-13 10:18:32 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2023-02-13 10:18:32 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2023-02-13 10:18:32 : INFO] - Re_Smush_It_Task with attachment ID : 1754, autocreated on : February 13, 2023 10:08:46 
+[2023-02-13 10:18:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:18:32 : INFO] - 75 
+[2023-02-13 10:18:33 : INFO] - Backing up the original image - 2023/02/mountain-Copy-1-updraft-pre-smush-original.png 
+[2023-02-13 10:18:33 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/mountain-Copy-1.png.The file was compressed from 50.18 KB to 18.96 KB saving 62.22 percent using WP-Optimize 
+[2023-02-13 10:18:33 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2023-02-13 10:18:33 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2023-02-13 10:18:33 : INFO] - Re_Smush_It_Task with attachment ID : 1755, autocreated on : February 13, 2023 10:08:47 
+[2023-02-13 10:18:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:18:33 : INFO] - 75 
+[2023-02-13 10:18:35 : INFO] - Backing up the original image - 2023/02/mountain-updraft-pre-smush-original.png 
+[2023-02-13 10:18:35 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/mountain.png.The file was compressed from 50.18 KB to 20.29 KB saving 59.56 percent using WP-Optimize 
+[2023-02-13 10:18:35 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2023-02-13 10:18:35 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2023-02-13 10:18:35 : INFO] - Re_Smush_It_Task with attachment ID : 1756, autocreated on : February 13, 2023 10:08:48 
+[2023-02-13 10:18:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:18:35 : INFO] - 75 
+[2023-02-13 10:18:35 : INFO] - Task with ID 22 and type (smush) failed with error code http_request_failed - cURL error 52: Empty reply from server 
+[2023-02-13 10:18:35 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2023-02-13 10:18:35 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2023-02-13 10:18:35 : INFO] - Re_Smush_It_Task with attachment ID : 1758, autocreated on : February 13, 2023 10:12:57 
+[2023-02-13 10:18:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:18:35 : INFO] - 75 
+[2023-02-13 10:18:38 : INFO] - Backing up the original image - 2023/02/bannerimage-Copy-Copy-updraft-pre-smush-original.png 
+[2023-02-13 10:18:38 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/bannerimage-Copy-Copy.png.The file was compressed from 820.52 KB to 243.78 KB saving 70.29 percent using WP-Optimize 
+[2023-02-13 10:18:38 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2023-02-13 10:18:38 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2023-02-13 10:18:38 : INFO] - Re_Smush_It_Task with attachment ID : 1759, autocreated on : February 13, 2023 10:12:58 
+[2023-02-13 10:18:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:18:38 : INFO] - 75 
+[2023-02-13 10:18:38 : INFO] - Task with ID 24 and type (smush) failed with error code http_request_failed - cURL error 52: Empty reply from server 
+[2023-02-13 10:18:38 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2023-02-13 10:18:38 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2023-02-13 10:18:38 : INFO] - Re_Smush_It_Task with attachment ID : 1760, autocreated on : February 13, 2023 10:13:00 
+[2023-02-13 10:18:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:18:38 : INFO] - 75 
+[2023-02-13 10:18:40 : INFO] - Backing up the original image - 2023/02/mountain-Copy-Copy-updraft-pre-smush-original.png 
+[2023-02-13 10:18:40 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/mountain-Copy-Copy.png.The file was compressed from 50.18 KB to 20.29 KB saving 59.56 percent using WP-Optimize 
+[2023-02-13 10:18:40 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2023-02-13 10:18:40 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2023-02-13 10:18:40 : INFO] - Re_Smush_It_Task with attachment ID : 1761, autocreated on : February 13, 2023 10:13:01 
+[2023-02-13 10:18:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:18:40 : INFO] - 75 
+[2023-02-13 10:18:41 : INFO] - Backing up the original image - 2023/02/mountain-Copy-2-updraft-pre-smush-original.png 
+[2023-02-13 10:18:41 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/mountain-Copy-2.png.The file was compressed from 50.18 KB to 20.29 KB saving 59.56 percent using WP-Optimize 
+[2023-02-13 10:18:41 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2023-02-13 10:18:41 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2023-02-13 10:18:41 : INFO] - Re_Smush_It_Task with attachment ID : 1762, autocreated on : February 13, 2023 10:13:02 
+[2023-02-13 10:18:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:18:41 : INFO] - 75 
+[2023-02-13 10:18:42 : INFO] - Backing up the original image - 2023/02/search-Copy-updraft-pre-smush-original.png 
+[2023-02-13 10:18:42 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/search-Copy.png.The file was compressed from 1.18 KB to 709 bytes saving 41.5 percent using WP-Optimize 
+[2023-02-13 10:18:42 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2023-02-13 10:18:42 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2023-02-13 10:18:42 : INFO] - Re_Smush_It_Task with attachment ID : 1763, autocreated on : February 13, 2023 10:13:03 
+[2023-02-13 10:18:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:18:42 : INFO] - 75 
+[2023-02-13 10:18:45 : INFO] - Backing up the original image - 2023/02/toor-Copy-updraft-pre-smush-original.png 
+[2023-02-13 10:18:45 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/toor-Copy.png.The file was compressed from 506.50 KB to 177.83 KB saving 64.89 percent using WP-Optimize 
+[2023-02-13 10:18:45 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2023-02-13 10:18:45 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-02-13 10:18:45 : INFO] - Successfully processed the queue (smush). 11 tasks were processed out of 11. 
+[2023-02-13 10:18:45 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-02-13 10:29:12 : INFO] - 
+ 
+[2023-02-13 10:29:12 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 10:29:12 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 10:29:12 : INFO] - WP: 6.0.2 
+[2023-02-13 10:29:12 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 10:29:12 : INFO] - MySQL: 10.4.27 
+[2023-02-13 10:29:12 : INFO] - WPLANG: en_US 
+[2023-02-13 10:29:12 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 10:29:12 : INFO] - Outbound connections: N 
+[2023-02-13 10:29:12 : INFO] - safe_mode: 0 
+[2023-02-13 10:29:12 : INFO] - max_execution_time: 120 
+[2023-02-13 10:29:12 : INFO] - memory_limit: 512M (used: 51.9M | 54M) 
+[2023-02-13 10:29:12 : INFO] - multisite: N 
+[2023-02-13 10:29:12 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 10:29:12 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2023-02-13 10:29:12 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-02-13 10:29:12 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-02-13 10:29:12 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2023-02-13 10:29:12 : INFO] - Re_Smush_It_Task with attachment ID : 1768, autocreated on : February 13, 2023 10:18:28 
+[2023-02-13 10:29:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:29:12 : INFO] - 75 
+[2023-02-13 10:29:14 : INFO] - Backing up the original image - 2023/02/add-updraft-pre-smush-original.png 
+[2023-02-13 10:29:14 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/add.png.The file was compressed from 97.08 KB to 29.65 KB saving 69.46 percent using WP-Optimize 
+[2023-02-13 10:29:14 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2023-02-13 10:29:14 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2023-02-13 10:29:14 : INFO] - Re_Smush_It_Task with attachment ID : 1769, autocreated on : February 13, 2023 10:18:29 
+[2023-02-13 10:29:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:29:14 : INFO] - 75 
+[2023-02-13 10:29:36 : INFO] - Backing up the original image - 2023/02/baby-updraft-pre-smush-original.png 
+[2023-02-13 10:29:36 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/baby.png.The file was compressed from 301.67 KB to 107.73 KB saving 64.29 percent using WP-Optimize 
+[2023-02-13 10:29:36 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2023-02-13 10:29:36 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2023-02-13 10:29:36 : INFO] - Re_Smush_It_Task with attachment ID : 1770, autocreated on : February 13, 2023 10:18:30 
+[2023-02-13 10:29:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:29:36 : INFO] - 75 
+[2023-02-13 10:29:37 : INFO] - Backing up the original image - 2023/02/besticon-updraft-pre-smush-original.png 
+[2023-02-13 10:29:37 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/besticon.png.The file was compressed from 83.78 KB to 45.05 KB saving 46.23 percent using WP-Optimize 
+[2023-02-13 10:29:37 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2023-02-13 10:29:37 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2023-02-13 10:29:37 : INFO] - Re_Smush_It_Task with attachment ID : 1771, autocreated on : February 13, 2023 10:18:31 
+[2023-02-13 10:29:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 10:29:37 : INFO] - 75 
+[2023-02-13 10:29:39 : INFO] - Backing up the original image - 2023/02/calender-image-updraft-pre-smush-original.png 
+[2023-02-13 10:29:39 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/calender-image.png.The file was compressed from 207.29 KB to 76.89 KB saving 62.91 percent using WP-Optimize 
+[2023-02-13 10:29:39 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2023-02-13 10:29:39 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-02-13 10:29:39 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2023-02-13 10:29:39 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-02-13 10:29:39 : INFO] - Cleaning up tasks of type (smush). A total of 15 tasks will be deleted. 
+[2023-02-13 10:30:33 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 10:30:33 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 10:30:33 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 10:30:33 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 10:30:33 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 10:33:40 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 10:33:40 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 10:33:40 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 10:33:40 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 10:33:40 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 10:39:28 : INFO] - 
+ 
+[2023-02-13 10:39:28 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 10:39:28 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 10:39:28 : INFO] - WP: 6.0.2 
+[2023-02-13 10:39:28 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 10:39:28 : INFO] - MySQL: 10.4.27 
+[2023-02-13 10:39:28 : INFO] - WPLANG: en_US 
+[2023-02-13 10:39:28 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 10:39:28 : INFO] - Outbound connections: N 
+[2023-02-13 10:39:28 : INFO] - safe_mode: 0 
+[2023-02-13 10:39:28 : INFO] - max_execution_time: 120 
+[2023-02-13 10:39:28 : INFO] - memory_limit: 512M (used: 51.9M | 56M) 
+[2023-02-13 10:39:28 : INFO] - multisite: N 
+[2023-02-13 10:39:28 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 10:39:28 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-02-13 10:55:13 : INFO] - Re_Smush_It_Task with attachment ID : 1777, autocreated on : February 13, 2023 10:55:13 
+[2023-02-13 10:55:41 : INFO] - Re_Smush_It_Task with attachment ID : 1779, autocreated on : February 13, 2023 10:55:41 
+[2023-02-13 11:01:38 : INFO] - 
+ 
+[2023-02-13 11:01:38 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 11:01:38 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 11:01:38 : INFO] - WP: 6.0.2 
+[2023-02-13 11:01:38 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 11:01:38 : INFO] - MySQL: 10.4.27 
+[2023-02-13 11:01:38 : INFO] - WPLANG: en_US 
+[2023-02-13 11:01:38 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 11:01:38 : INFO] - Outbound connections: N 
+[2023-02-13 11:01:38 : INFO] - safe_mode: 0 
+[2023-02-13 11:01:38 : INFO] - max_execution_time: 120 
+[2023-02-13 11:01:38 : INFO] - memory_limit: 512M (used: 50.9M | 52M) 
+[2023-02-13 11:01:38 : INFO] - multisite: N 
+[2023-02-13 11:01:38 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 11:01:38 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2023-02-13 11:01:38 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-02-13 11:01:38 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-02-13 11:01:38 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2023-02-13 11:01:38 : INFO] - Re_Smush_It_Task with attachment ID : 1777, autocreated on : February 13, 2023 10:55:13 
+[2023-02-13 11:01:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 11:01:38 : INFO] - 75 
+[2023-02-13 11:01:40 : INFO] - Backing up the original image - 2023/02/camera-updraft-pre-smush-original.png 
+[2023-02-13 11:01:40 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/camera.png.The file was compressed from 184.56 KB to 70.98 KB saving 61.54 percent using WP-Optimize 
+[2023-02-13 11:01:40 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2023-02-13 11:01:40 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2023-02-13 11:01:40 : INFO] - Re_Smush_It_Task with attachment ID : 1779, autocreated on : February 13, 2023 10:55:41 
+[2023-02-13 11:01:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 11:01:40 : INFO] - 75 
+[2023-02-13 11:01:41 : INFO] - Backing up the original image - 2023/02/ball-man-updraft-pre-smush-original.png 
+[2023-02-13 11:01:41 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/ball-man.png.The file was compressed from 60.63 KB to 20.86 KB saving 65.59 percent using WP-Optimize 
+[2023-02-13 11:01:41 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2023-02-13 11:01:41 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-02-13 11:01:41 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2023-02-13 11:01:41 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-02-13 11:01:41 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2023-02-13 11:04:27 : INFO] - Re_Smush_It_Task with attachment ID : 1781, autocreated on : February 13, 2023 11:04:27 
+[2023-02-13 11:04:28 : INFO] - Re_Smush_It_Task with attachment ID : 1782, autocreated on : February 13, 2023 11:04:28 
+[2023-02-13 11:04:28 : INFO] - Re_Smush_It_Task with attachment ID : 1783, autocreated on : February 13, 2023 11:04:28 
+[2023-02-13 11:04:29 : INFO] - Re_Smush_It_Task with attachment ID : 1784, autocreated on : February 13, 2023 11:04:29 
+[2023-02-13 11:04:30 : INFO] - Re_Smush_It_Task with attachment ID : 1785, autocreated on : February 13, 2023 11:04:30 
+[2023-02-13 11:09:23 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 11:09:23 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 11:09:23 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 11:09:23 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 11:09:23 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 11:11:53 : INFO] - 
+ 
+[2023-02-13 11:11:53 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 11:11:53 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 11:11:53 : INFO] - WP: 6.0.2 
+[2023-02-13 11:11:53 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 11:11:53 : INFO] - MySQL: 10.4.27 
+[2023-02-13 11:11:53 : INFO] - WPLANG: en_US 
+[2023-02-13 11:11:53 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 11:11:53 : INFO] - Outbound connections: N 
+[2023-02-13 11:11:53 : INFO] - safe_mode: 0 
+[2023-02-13 11:11:53 : INFO] - max_execution_time: 120 
+[2023-02-13 11:11:53 : INFO] - memory_limit: 512M (used: 50.9M | 52M) 
+[2023-02-13 11:11:53 : INFO] - multisite: N 
+[2023-02-13 11:11:53 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 11:11:53 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2023-02-13 11:11:53 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-02-13 11:11:53 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-02-13 11:11:53 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2023-02-13 11:11:53 : INFO] - Re_Smush_It_Task with attachment ID : 1781, autocreated on : February 13, 2023 11:04:27 
+[2023-02-13 11:11:53 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 11:11:53 : INFO] - 75 
+[2023-02-13 11:11:55 : INFO] - Backing up the original image - 2023/02/vectore1-updraft-pre-smush-original.png 
+[2023-02-13 11:11:55 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/vectore1.png.The file was compressed from 64.08 KB to 18.21 KB saving 71.59 percent using WP-Optimize 
+[2023-02-13 11:11:55 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2023-02-13 11:11:55 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2023-02-13 11:11:55 : INFO] - Re_Smush_It_Task with attachment ID : 1782, autocreated on : February 13, 2023 11:04:28 
+[2023-02-13 11:11:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 11:11:55 : INFO] - 75 
+[2023-02-13 11:11:57 : INFO] - Backing up the original image - 2023/02/velainten-updraft-pre-smush-original.png 
+[2023-02-13 11:11:57 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/velainten.png.The file was compressed from 138.96 KB to 54.14 KB saving 61.04 percent using WP-Optimize 
+[2023-02-13 11:11:57 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2023-02-13 11:11:57 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2023-02-13 11:11:57 : INFO] - Re_Smush_It_Task with attachment ID : 1783, autocreated on : February 13, 2023 11:04:28 
+[2023-02-13 11:11:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 11:11:57 : INFO] - 75 
+[2023-02-13 11:11:59 : INFO] - Backing up the original image - 2023/02/year-image-updraft-pre-smush-original.png 
+[2023-02-13 11:11:59 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/year-image.png.The file was compressed from 210.61 KB to 74.12 KB saving 64.8 percent using WP-Optimize 
+[2023-02-13 11:11:59 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2023-02-13 11:11:59 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2023-02-13 11:11:59 : INFO] - Re_Smush_It_Task with attachment ID : 1784, autocreated on : February 13, 2023 11:04:29 
+[2023-02-13 11:11:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 11:11:59 : INFO] - 75 
+[2023-02-13 11:12:01 : INFO] - Backing up the original image - 2023/02/yes-updraft-pre-smush-original.png 
+[2023-02-13 11:12:01 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/yes.png.The file was compressed from 131.65 KB to 45.86 KB saving 65.16 percent using WP-Optimize 
+[2023-02-13 11:12:01 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2023-02-13 11:12:01 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2023-02-13 11:12:01 : INFO] - Re_Smush_It_Task with attachment ID : 1785, autocreated on : February 13, 2023 11:04:30 
+[2023-02-13 11:12:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 11:12:01 : INFO] - 75 
+[2023-02-13 11:12:03 : INFO] - Backing up the original image - 2023/02/zack-updraft-pre-smush-original.png 
+[2023-02-13 11:12:03 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/zack.png.The file was compressed from 156.43 KB to 42.77 KB saving 72.66 percent using WP-Optimize 
+[2023-02-13 11:12:03 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2023-02-13 11:12:03 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-02-13 11:12:03 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2023-02-13 11:12:03 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-02-13 11:12:03 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2023-02-13 11:21:57 : INFO] - 
+ 
+[2023-02-13 11:21:57 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 11:21:57 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 11:21:57 : INFO] - WP: 6.0.2 
+[2023-02-13 11:21:57 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 11:21:57 : INFO] - MySQL: 10.4.27 
+[2023-02-13 11:21:57 : INFO] - WPLANG: en_US 
+[2023-02-13 11:21:57 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 11:21:57 : INFO] - Outbound connections: N 
+[2023-02-13 11:21:57 : INFO] - safe_mode: 0 
+[2023-02-13 11:21:57 : INFO] - max_execution_time: 120 
+[2023-02-13 11:21:57 : INFO] - memory_limit: 512M (used: 50.8M | 58M) 
+[2023-02-13 11:21:57 : INFO] - multisite: N 
+[2023-02-13 11:21:57 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 11:21:57 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-02-13 11:25:57 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 11:25:57 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 11:25:57 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 11:25:57 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 11:25:57 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 11:28:00 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 11:28:00 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 11:28:00 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 11:28:00 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 11:28:00 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 11:35:58 : INFO] - Re_Smush_It_Task with attachment ID : 1790, autocreated on : February 13, 2023 11:35:58 
+[2023-02-13 11:36:00 : INFO] - Re_Smush_It_Task with attachment ID : 1791, autocreated on : February 13, 2023 11:36:00 
+[2023-02-13 11:36:01 : INFO] - Re_Smush_It_Task with attachment ID : 1792, autocreated on : February 13, 2023 11:36:01 
+[2023-02-13 11:36:01 : INFO] - Re_Smush_It_Task with attachment ID : 1793, autocreated on : February 13, 2023 11:36:01 
+[2023-02-13 11:36:02 : INFO] - Re_Smush_It_Task with attachment ID : 1794, autocreated on : February 13, 2023 11:36:02 
+[2023-02-13 11:36:03 : INFO] - Re_Smush_It_Task with attachment ID : 1795, autocreated on : February 13, 2023 11:36:03 
+[2023-02-13 11:36:04 : INFO] - Re_Smush_It_Task with attachment ID : 1796, autocreated on : February 13, 2023 11:36:04 
+[2023-02-13 11:36:05 : INFO] - Re_Smush_It_Task with attachment ID : 1797, autocreated on : February 13, 2023 11:36:05 
+[2023-02-13 11:36:06 : INFO] - Re_Smush_It_Task with attachment ID : 1798, autocreated on : February 13, 2023 11:36:06 
+[2023-02-13 11:40:59 : INFO] - 
+ 
+[2023-02-13 11:40:59 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 11:40:59 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 11:40:59 : INFO] - WP: 6.0.2 
+[2023-02-13 11:40:59 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 11:40:59 : INFO] - MySQL: 10.4.27 
+[2023-02-13 11:40:59 : INFO] - WPLANG: en_US 
+[2023-02-13 11:40:59 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 11:40:59 : INFO] - Outbound connections: N 
+[2023-02-13 11:40:59 : INFO] - safe_mode: 0 
+[2023-02-13 11:40:59 : INFO] - max_execution_time: 120 
+[2023-02-13 11:40:59 : INFO] - memory_limit: 512M (used: 50.9M | 52M) 
+[2023-02-13 11:40:59 : INFO] - multisite: N 
+[2023-02-13 11:40:59 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 11:40:59 : INFO] - A total of 9 tasks of type smush found and will be processed in this iteration 
+[2023-02-13 11:40:59 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-02-13 11:40:59 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-02-13 11:40:59 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2023-02-13 11:40:59 : INFO] - Re_Smush_It_Task with attachment ID : 1790, autocreated on : February 13, 2023 11:35:58 
+[2023-02-13 11:40:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-13 11:40:59 : INFO] - 75 
+[2023-02-13 11:41:08 : INFO] - Backing up the original image - 2023/02/add-20230213-113558-updraft-pre-smush-original.png 
+[2023-02-13 11:41:08 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/add-20230213-113558.png.The file was compressed from 97.08 KB to 29.65 KB saving 69.46 percent using WP-Optimize 
+[2023-02-13 11:41:08 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2023-02-13 11:41:08 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2023-02-13 11:41:08 : INFO] - Task with ID 41 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-02-13 11:41:08 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2023-02-13 11:41:09 : INFO] - Task with ID 42 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-02-13 11:41:09 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2023-02-13 11:41:09 : INFO] - Task with ID 43 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-02-13 11:41:09 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2023-02-13 11:41:09 : INFO] - Task with ID 44 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-02-13 11:41:09 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2023-02-13 11:41:09 : INFO] - Task with ID 45 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-02-13 11:41:09 : INFO] - Processing task with ID : 46, and type 'smush' 
+[2023-02-13 11:41:09 : INFO] - Task with ID 46 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-02-13 11:41:09 : INFO] - Processing task with ID : 47, and type 'smush' 
+[2023-02-13 11:41:09 : INFO] - Task with ID 47 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-02-13 11:41:09 : INFO] - Processing task with ID : 48, and type 'smush' 
+[2023-02-13 11:41:09 : INFO] - Task with ID 48 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-02-13 11:41:09 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-02-13 11:41:09 : INFO] - Successfully processed the queue (smush). 9 tasks were processed out of 9. 
+[2023-02-13 11:41:09 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-02-13 11:41:09 : INFO] - Cleaning up tasks of type (smush). A total of 9 tasks will be deleted. 
+[2023-02-13 11:52:01 : INFO] - 
+ 
+[2023-02-13 11:52:01 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 11:52:01 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 11:52:01 : INFO] - WP: 6.0.2 
+[2023-02-13 11:52:01 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 11:52:01 : INFO] - MySQL: 10.4.27 
+[2023-02-13 11:52:01 : INFO] - WPLANG: en_US 
+[2023-02-13 11:52:01 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 11:52:01 : INFO] - Outbound connections: N 
+[2023-02-13 11:52:01 : INFO] - safe_mode: 0 
+[2023-02-13 11:52:01 : INFO] - max_execution_time: 120 
+[2023-02-13 11:52:01 : INFO] - memory_limit: 512M (used: 50.8M | 52M) 
+[2023-02-13 11:52:01 : INFO] - multisite: N 
+[2023-02-13 11:52:01 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 11:52:01 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-02-13 12:14:54 : INFO] - Re_Smush_It_Task with attachment ID : 1799, autocreated on : February 13, 2023 12:14:54 
+[2023-02-13 12:14:55 : INFO] - Re_Smush_It_Task with attachment ID : 1800, autocreated on : February 13, 2023 12:14:55 
+[2023-02-13 12:14:56 : INFO] - Re_Smush_It_Task with attachment ID : 1801, autocreated on : February 13, 2023 12:14:56 
+[2023-02-13 12:14:57 : INFO] - Re_Smush_It_Task with attachment ID : 1802, autocreated on : February 13, 2023 12:14:57 
+[2023-02-13 12:19:58 : INFO] - 
+ 
+[2023-02-13 12:19:58 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 12:19:58 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 12:19:58 : INFO] - WP: 6.0.2 
+[2023-02-13 12:19:58 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 12:19:58 : INFO] - MySQL: 10.4.27 
+[2023-02-13 12:19:58 : INFO] - WPLANG: en_US 
+[2023-02-13 12:19:58 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 12:19:58 : INFO] - Outbound connections: N 
+[2023-02-13 12:19:58 : INFO] - safe_mode: 0 
+[2023-02-13 12:19:58 : INFO] - max_execution_time: 120 
+[2023-02-13 12:19:58 : INFO] - memory_limit: 512M (used: 50.9M | 52M) 
+[2023-02-13 12:19:58 : INFO] - multisite: N 
+[2023-02-13 12:19:58 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 12:19:58 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2023-02-13 12:19:58 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-02-13 12:19:58 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-02-13 12:19:58 : INFO] - Processing task with ID : 49, and type 'smush' 
+[2023-02-13 12:19:58 : INFO] - Task with ID 49 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-02-13 12:19:58 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2023-02-13 12:19:58 : INFO] - Task with ID 50 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-02-13 12:19:58 : INFO] - Processing task with ID : 51, and type 'smush' 
+[2023-02-13 12:19:58 : INFO] - Task with ID 51 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-02-13 12:19:58 : INFO] - Processing task with ID : 52, and type 'smush' 
+[2023-02-13 12:19:58 : INFO] - Task with ID 52 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-02-13 12:19:58 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-02-13 12:19:58 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2023-02-13 12:19:58 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-02-13 12:19:58 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2023-02-13 12:30:00 : INFO] - 
+ 
+[2023-02-13 12:30:00 : INFO] - Header for logs at time:  Mon, 13 Feb 2023 12:30:00 +0000 on http://localhost/BeingConsistant 
+[2023-02-13 12:30:00 : INFO] - WP: 6.0.2 
+[2023-02-13 12:30:00 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-13 12:30:00 : INFO] - MySQL: 10.4.27 
+[2023-02-13 12:30:00 : INFO] - WPLANG: en_US 
+[2023-02-13 12:30:00 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-13 12:30:00 : INFO] - Outbound connections: N 
+[2023-02-13 12:30:00 : INFO] - safe_mode: 0 
+[2023-02-13 12:30:00 : INFO] - max_execution_time: 120 
+[2023-02-13 12:30:00 : INFO] - memory_limit: 512M (used: 50.8M | 52M) 
+[2023-02-13 12:30:00 : INFO] - multisite: N 
+[2023-02-13 12:30:00 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-13 12:30:00 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-02-13 12:45:03 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 12:45:03 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 12:45:03 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 12:45:03 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 12:45:03 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-13 14:05:59 : INFO] - Could not find file for image: ID=1671, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/12/something_special.png 
+[2023-02-13 14:05:59 : INFO] - Could not find file for image: ID=1207, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-2.jpg 
+[2023-02-13 14:05:59 : INFO] - Could not find file for image: ID=1206, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1-1.jpg 
+[2023-02-13 14:05:59 : INFO] - Could not find file for image: ID=1205, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo-1-1.jpg 
+[2023-02-13 14:05:59 : INFO] - Could not find file for image: ID=1204, file=C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2022/09/Finalized_BC-logo.jpg 
+[2023-02-16 11:18:26 : INFO] - Re_Smush_It_Task with attachment ID : 1803, autocreated on : February 16, 2023 11:18:26 
+[2023-02-16 11:18:28 : INFO] - Re_Smush_It_Task with attachment ID : 1804, autocreated on : February 16, 2023 11:18:28 
+[2023-02-16 11:18:30 : INFO] - Re_Smush_It_Task with attachment ID : 1805, autocreated on : February 16, 2023 11:18:30 
+[2023-02-16 11:18:32 : INFO] - Re_Smush_It_Task with attachment ID : 1806, autocreated on : February 16, 2023 11:18:32 
+[2023-02-16 11:19:18 : INFO] - Re_Smush_It_Task with attachment ID : 1807, autocreated on : February 16, 2023 11:19:18 
+[2023-02-16 11:23:33 : INFO] - 
+ 
+[2023-02-16 11:23:33 : INFO] - Header for logs at time:  Thu, 16 Feb 2023 11:23:33 +0000 on http://localhost/BeingConsistant 
+[2023-02-16 11:23:33 : INFO] - WP: 6.0.2 
+[2023-02-16 11:23:33 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-16 11:23:33 : INFO] - MySQL: 10.4.27 
+[2023-02-16 11:23:33 : INFO] - WPLANG: en_US 
+[2023-02-16 11:23:33 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-16 11:23:33 : INFO] - Outbound connections: N 
+[2023-02-16 11:23:33 : INFO] - safe_mode: 0 
+[2023-02-16 11:23:33 : INFO] - max_execution_time: 120 
+[2023-02-16 11:23:33 : INFO] - memory_limit: 512M (used: 51.9M | 54M) 
+[2023-02-16 11:23:33 : INFO] - multisite: N 
+[2023-02-16 11:23:33 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-16 11:23:33 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2023-02-16 11:23:33 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-02-16 11:23:33 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-02-16 11:23:33 : INFO] - Processing task with ID : 53, and type 'smush' 
+[2023-02-16 11:23:33 : INFO] - Re_Smush_It_Task with attachment ID : 1803, autocreated on : February 16, 2023 11:18:26 
+[2023-02-16 11:23:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-16 11:23:33 : INFO] - 75 
+[2023-02-16 11:23:36 : INFO] - Backing up the original image - 2023/02/form-img-updraft-pre-smush-original.png 
+[2023-02-16 11:23:36 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/form-img.png.The file was compressed from 208.49 KB to 74.67 KB saving 64.18 percent using WP-Optimize 
+[2023-02-16 11:23:36 : INFO] - Completed processing task with ID : 53, and type 'smush' 
+[2023-02-16 11:23:36 : INFO] - Processing task with ID : 54, and type 'smush' 
+[2023-02-16 11:23:36 : INFO] - Re_Smush_It_Task with attachment ID : 1804, autocreated on : February 16, 2023 11:18:28 
+[2023-02-16 11:23:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-16 11:23:36 : INFO] - 75 
+[2023-02-16 11:23:38 : INFO] - Backing up the original image - 2023/02/image1-updraft-pre-smush-original.png 
+[2023-02-16 11:23:38 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/image1.png.The file was compressed from 146.29 KB to 48.09 KB saving 67.13 percent using WP-Optimize 
+[2023-02-16 11:23:38 : INFO] - Completed processing task with ID : 54, and type 'smush' 
+[2023-02-16 11:23:38 : INFO] - Processing task with ID : 55, and type 'smush' 
+[2023-02-16 11:23:38 : INFO] - Re_Smush_It_Task with attachment ID : 1805, autocreated on : February 16, 2023 11:18:30 
+[2023-02-16 11:23:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-16 11:23:38 : INFO] - 75 
+[2023-02-16 11:23:41 : INFO] - Backing up the original image - 2023/02/image2-updraft-pre-smush-original.png 
+[2023-02-16 11:23:41 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/image2.png.The file was compressed from 228.87 KB to 69.26 KB saving 69.74 percent using WP-Optimize 
+[2023-02-16 11:23:41 : INFO] - Completed processing task with ID : 55, and type 'smush' 
+[2023-02-16 11:23:41 : INFO] - Processing task with ID : 56, and type 'smush' 
+[2023-02-16 11:23:41 : INFO] - Re_Smush_It_Task with attachment ID : 1806, autocreated on : February 16, 2023 11:18:32 
+[2023-02-16 11:23:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-16 11:23:41 : INFO] - 75 
+[2023-02-16 11:23:44 : INFO] - Backing up the original image - 2023/02/image3-updraft-pre-smush-original.png 
+[2023-02-16 11:23:44 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/image3.png.The file was compressed from 120.94 KB to 48.97 KB saving 59.51 percent using WP-Optimize 
+[2023-02-16 11:23:44 : INFO] - Completed processing task with ID : 56, and type 'smush' 
+[2023-02-16 11:23:44 : INFO] - Processing task with ID : 57, and type 'smush' 
+[2023-02-16 11:23:44 : INFO] - Re_Smush_It_Task with attachment ID : 1807, autocreated on : February 16, 2023 11:19:18 
+[2023-02-16 11:23:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-16 11:23:44 : INFO] - 75 
+[2023-02-16 11:23:47 : INFO] - Backing up the original image - 2023/02/about-img-1-updraft-pre-smush-original.png 
+[2023-02-16 11:23:47 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/about-img-1.png.The file was compressed from 425.14 KB to 144.23 KB saving 66.08 percent using WP-Optimize 
+[2023-02-16 11:23:47 : INFO] - Completed processing task with ID : 57, and type 'smush' 
+[2023-02-16 11:23:47 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-02-16 11:23:47 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2023-02-16 11:23:47 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-02-16 11:23:47 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2023-02-16 11:33:45 : INFO] - 
+ 
+[2023-02-16 11:33:45 : INFO] - Header for logs at time:  Thu, 16 Feb 2023 11:33:45 +0000 on http://localhost/BeingConsistant 
+[2023-02-16 11:33:45 : INFO] - WP: 6.0.2 
+[2023-02-16 11:33:45 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-16 11:33:45 : INFO] - MySQL: 10.4.27 
+[2023-02-16 11:33:45 : INFO] - WPLANG: en_US 
+[2023-02-16 11:33:45 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-16 11:33:45 : INFO] - Outbound connections: N 
+[2023-02-16 11:33:45 : INFO] - safe_mode: 0 
+[2023-02-16 11:33:45 : INFO] - max_execution_time: 120 
+[2023-02-16 11:33:45 : INFO] - memory_limit: 512M (used: 51.9M | 54M) 
+[2023-02-16 11:33:45 : INFO] - multisite: N 
+[2023-02-16 11:33:45 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-16 11:33:45 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2023-02-23 08:54:20 : INFO] - Re_Smush_It_Task with attachment ID : 1809, autocreated on : February 23, 2023 08:54:20 
+[2023-02-23 08:54:29 : INFO] - Re_Smush_It_Task with attachment ID : 1810, autocreated on : February 23, 2023 08:54:29 
+[2023-02-23 08:54:58 : INFO] - Re_Smush_It_Task with attachment ID : 1811, autocreated on : February 23, 2023 08:54:58 
+[2023-02-23 08:59:21 : INFO] - 
+ 
+[2023-02-23 08:59:21 : INFO] - Header for logs at time:  Thu, 23 Feb 2023 08:59:21 +0000 on http://localhost/BeingConsistant 
+[2023-02-23 08:59:21 : INFO] - WP: 6.0.2 
+[2023-02-23 08:59:21 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-23 08:59:21 : INFO] - MySQL: 10.4.27 
+[2023-02-23 08:59:21 : INFO] - WPLANG: en_US 
+[2023-02-23 08:59:21 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-23 08:59:21 : INFO] - Outbound connections: N 
+[2023-02-23 08:59:21 : INFO] - safe_mode: 0 
+[2023-02-23 08:59:21 : INFO] - max_execution_time: 120 
+[2023-02-23 08:59:21 : INFO] - memory_limit: 512M (used: 51.9M | 56M) 
+[2023-02-23 08:59:21 : INFO] - multisite: N 
+[2023-02-23 08:59:21 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-23 08:59:21 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2023-02-23 08:59:21 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2023-02-23 08:59:21 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2023-02-23 08:59:21 : INFO] - Processing task with ID : 58, and type 'smush' 
+[2023-02-23 08:59:21 : INFO] - Re_Smush_It_Task with attachment ID : 1809, autocreated on : February 23, 2023 08:54:20 
+[2023-02-23 08:59:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-23 08:59:21 : INFO] - 75 
+[2023-02-23 08:59:23 : INFO] - Backing up the original image - 2023/02/b2-updraft-pre-smush-original.png 
+[2023-02-23 08:59:23 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/b2.png.The file was compressed from 179.55 KB to 60.32 KB saving 66.4 percent using WP-Optimize 
+[2023-02-23 08:59:23 : INFO] - Completed processing task with ID : 58, and type 'smush' 
+[2023-02-23 08:59:23 : INFO] - Processing task with ID : 59, and type 'smush' 
+[2023-02-23 08:59:23 : INFO] - Re_Smush_It_Task with attachment ID : 1810, autocreated on : February 23, 2023 08:54:29 
+[2023-02-23 08:59:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-23 08:59:23 : INFO] - 75 
+[2023-02-23 08:59:26 : INFO] - Backing up the original image - 2023/02/b-updraft-pre-smush-original.png 
+[2023-02-23 08:59:26 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/b.png.The file was compressed from 128.38 KB to 40.66 KB saving 68.33 percent using WP-Optimize 
+[2023-02-23 08:59:26 : INFO] - Completed processing task with ID : 59, and type 'smush' 
+[2023-02-23 08:59:26 : INFO] - Processing task with ID : 60, and type 'smush' 
+[2023-02-23 08:59:26 : INFO] - Re_Smush_It_Task with attachment ID : 1811, autocreated on : February 23, 2023 08:54:58 
+[2023-02-23 08:59:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-02-23 08:59:26 : INFO] - 75 
+[2023-02-23 08:59:28 : INFO] - Backing up the original image - 2023/02/b3-updraft-pre-smush-original.png 
+[2023-02-23 08:59:28 : INFO] - Successfully optimized the image - C:\xampp\htdocs\BeingConsistant/wp-content/uploads/2023/02/b3.png.The file was compressed from 226.92 KB to 71.85 KB saving 68.33 percent using WP-Optimize 
+[2023-02-23 08:59:28 : INFO] - Completed processing task with ID : 60, and type 'smush' 
+[2023-02-23 08:59:28 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2023-02-23 08:59:28 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2023-02-23 08:59:28 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2023-02-23 08:59:28 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2023-02-23 09:10:24 : INFO] - 
+ 
+[2023-02-23 09:10:24 : INFO] - Header for logs at time:  Thu, 23 Feb 2023 09:10:24 +0000 on http://localhost/BeingConsistant 
+[2023-02-23 09:10:24 : INFO] - WP: 6.0.2 
+[2023-02-23 09:10:24 : INFO] - PHP: 8.1.12 (apache2handler, Windows NT DB-L-109 10.0 build 19044 (Windows 10) AMD64) 
+[2023-02-23 09:10:24 : INFO] - MySQL: 10.4.27 
+[2023-02-23 09:10:24 : INFO] - WPLANG: en_US 
+[2023-02-23 09:10:24 : INFO] - Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+[2023-02-23 09:10:24 : INFO] - Outbound connections: N 
+[2023-02-23 09:10:24 : INFO] - safe_mode: 0 
+[2023-02-23 09:10:24 : INFO] - max_execution_time: 120 
+[2023-02-23 09:10:24 : INFO] - memory_limit: 512M (used: 51.9M | 54M) 
+[2023-02-23 09:10:24 : INFO] - multisite: N 
+[2023-02-23 09:10:24 : INFO] - openssl: OpenSSL 1.1.1q  5 Jul 2022 
+[2023-02-23 09:10:24 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
